@@ -3,9 +3,9 @@
 //3, 5 -> 243 (3⁵)
 //2, 4 -> 16
 
-Console.WriteLine("Введите первое число - основание");
+Console.WriteLine("Введите первое число - основание :");
 int x = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второе число - степень");
+Console.WriteLine("Введите второе число - степень :");
 int y = Convert.ToInt32(Console.ReadLine());
 
 void PrintdegreeOfnumber(int x, int y)
