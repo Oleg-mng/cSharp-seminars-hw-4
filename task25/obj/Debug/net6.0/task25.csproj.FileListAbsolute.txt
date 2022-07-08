@@ -1,0 +1,15 @@
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/bin/Debug/net6.0/task25
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/bin/Debug/net6.0/task25.deps.json
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/bin/Debug/net6.0/task25.dll
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/bin/Debug/net6.0/task25.pdb
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.dll
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/refint/task25.dll
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.pdb
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/olegmonogarov/GeekBrains/с#/seminar4/task25/obj/Debug/net6.0/ref/task25.dll
